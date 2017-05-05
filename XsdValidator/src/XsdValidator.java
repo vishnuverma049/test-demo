@@ -37,7 +37,7 @@ public class XsdValidator {
 		//AAAAAAAAAAAAAAABBBBBBBB
 		/*try {
 			//URL schemaFile = new URL("file:///E:/Airtel/M2M/NewOrder.xsd");
-			
+			//DDDDDDDDDDDDDDDD
 			File schemaFile = new File("om-postpaid-xml-xsd.xsd"); // etc.
 			Source xmlFile = new StreamSource("file:///E:/Airtel/M2M/validate.xml");
 			SchemaFactory schemaFactory = SchemaFactory

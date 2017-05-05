@@ -32,6 +32,7 @@ import java.util.Iterator;
 public class XsdValidator {
 	
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException, XPathExpressionException {
+		//QQQQQQQQQQ
 		/*try {
 			//URL schemaFile = new URL("file:///E:/Airtel/M2M/NewOrder.xsd");
 			//DDDDDDDDDDDDDDDD
